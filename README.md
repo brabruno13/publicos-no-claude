@@ -25,7 +25,7 @@ Resultado varia de acordo com o negócio, a oferta, o criativo e a verba.
 Abra o Claude Code e cole:
 
 ```
-Instala pra mim o https://github.com/<SEU-USUARIO>/publicos-no-claude. Lê o INSTALL.md e segue os passos. Me pede o token da Meta quando precisar.
+Instala pra mim o https://github.com/brabruno13/publicos-no-claude. Lê o INSTALL.md e segue os passos. Me pede o token da Meta quando precisar.
 ```
 
 O que você vai precisar:
